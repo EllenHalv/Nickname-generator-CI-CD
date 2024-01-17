@@ -1,0 +1,52 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffc0cb; /* Light Pink Background */
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333; /* Dark Gray Text Color */
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #333; /* Dark Gray Border */
+    border-radius: 10px;
+    background-color: white; /* White Background */
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333; /* Dark Gray Text Color */
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #ff69b4; /* Hot Pink Button Color */
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#generated-name-and-nickname {
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333; /* Dark Gray Text Color */
+}
