@@ -1,6 +1,7 @@
-### Nickname Generator Web App
+# Nickname Generator Web App
 
 Created to practice CI/CD pipeline using Jenkins and Docker.
+
 
 ## The web app is hosted using AWS Amplify. 
 
